@@ -55,7 +55,7 @@ pip install pytest-html
 
 ```
 
-# To Run PyTests in Parallel
+To run pytest in Parallel. For the installation, we shall execute the command
 
 ```console
 
