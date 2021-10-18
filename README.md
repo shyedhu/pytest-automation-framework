@@ -4,7 +4,6 @@ This is API automation framework using pytest with python.
 ![](https://github.com/shyedhu/images/blob/main/pytest.gif)
 
 ## Prerequisites
-First we need install of the Python interpreter, which can be downloaded  Then We need to create a new project in our IDE (I use Visual Studio Code) and install the requests library. The easiest way to do this is using pip, the Python package manager:
 
 Please ensure you have python3 installed on your machine. If not already installed, you can go to https://www.python.org/downloads/ and download the latest version of python for your OS and run the installer
 
@@ -23,6 +22,7 @@ please make sure python is installed and available from the command line
 python3 --version
 
 ```
+
 # Install the requests and pytest 
 
 ```console
@@ -38,6 +38,7 @@ We also need a testing framework to provide us with a test runner, I selected th
 pip install -U pytest
 
 ```
+
 
 **1. ** Clone this repo locally:
 ```console
